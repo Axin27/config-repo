@@ -1,1 +1,1 @@
-# springcloud-sell
+# config-repo
