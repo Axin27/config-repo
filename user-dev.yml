@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: maxadmin
+    password: Foxconn!@3
+    url: jdbc:mysql://mysqldp1:3306/test?characterEncoding=utf-8&useSSL=false
+  redis:
+    host: 10.60.136.154
+    port: 6379
